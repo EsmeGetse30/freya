@@ -9,4 +9,5 @@ sopita knor
 3. dejar cocer
 4. servir y soplar antes de probar
 5. no quemarse
+
 ![plato de sopa](https://www.themarkethink.com/wp-content/uploads/2020/11/sopa-mickey.jpg)
